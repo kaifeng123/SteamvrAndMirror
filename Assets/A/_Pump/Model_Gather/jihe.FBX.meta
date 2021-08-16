@@ -1,0 +1,3297 @@
+fileFormatVersion: 2
+guid: e77936c8b1616394cba6fc8b9a046ca6
+timeCreated: 1453123139
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3AAA
+    100002: 3AAA001
+    100004: Cylinder024
+    100006: Cylinder039
+    100008: Cylinder040
+    100010: Cylinder041
+    100012: Cylinder042
+    100014: dianji
+    100016: dianji001
+    100018: dianji002
+    100020: dizuo1
+    100022: dizuo2
+    100024: dizuo3
+    100026: duiping002
+    100028: duiping003
+    100030: duiping004
+    100032: duiping005
+    100034: duiping006
+    100036: duiping007
+    100038: duiping008
+    100040: duiping009
+    100042: duiping010
+    100044: duiping012
+    100046: duiping013
+    100048: duiping014
+    100050: duiping015
+    100052: duiping016
+    100054: duiping017
+    100056: duiping018
+    100058: duiping019
+    100060: duiping020
+    100062: duiping021
+    100064: duiping022
+    100066: duiping023
+    100068: duiping024
+    100070: duiping025
+    100072: duiping026
+    100074: //RootNode
+    100076: luosi018
+    100078: luosi029
+    100080: luosi030
+    100082: luosi031
+    100084: luosi032
+    100086: luosi033
+    100088: luosi034
+    100090: luosi035
+    100092: luosi036
+    100094: luosi037
+    100096: luosi038
+    100098: luosi039
+    100100: luosi040
+    100102: luosi041
+    100104: luosi042
+    100106: luosi043
+    100108: luosi044
+    100110: luosi045
+    100112: luosi046
+    100114: luosi047
+    100116: luosi048
+    100118: luosi049
+    100120: luosi050
+    100122: luosi051
+    100124: luosi052
+    100126: luosi053
+    100128: luosi054
+    100130: luosi055
+    100132: luosi056
+    100134: luosi057
+    100136: luosi058
+    100138: luosi059
+    100140: luosi060
+    100142: luosi061
+    100144: luosi062
+    100146: luosi063
+    100148: luosi064
+    100150: luosi065
+    100152: luosi066
+    100154: luosi067
+    100156: luosi068
+    100158: luosi069
+    100160: luosi070
+    100162: luosi071
+    100164: luosi072
+    100166: luosi073
+    100168: luosi074
+    100170: luosi075
+    100172: luosi076
+    100174: luosi077
+    100176: luosi078
+    100178: luosi079
+    100180: luosi080
+    100182: luosi081
+    100184: luosi082
+    100186: luosi083
+    100188: luosi084
+    100190: luosi085
+    100192: luosi086
+    100194: luosi087
+    100196: luosi088
+    100198: luosi089
+    100200: luosi090
+    100202: luosi091
+    100204: luosi092
+    100206: luosi093
+    100208: luosi094
+    100210: luosi095
+    100212: luosi096
+    100214: luosi097
+    100216: luosi098
+    100218: luosi099
+    100220: luosi100
+    100222: luosi101
+    100224: luosi102
+    100226: luosi103
+    100228: luosi104
+    100230: luosi105
+    100232: luosi106
+    100234: luosi107
+    100236: luosi108
+    100238: luosi109
+    100240: luosi110
+    100242: luosi111
+    100244: luosi112
+    100246: luosi113
+    100248: luosi114
+    100250: luosi115
+    100252: luosi116
+    100254: luosi117
+    100256: luosi118
+    100258: luosi119
+    100260: luosi120
+    100262: luosi121
+    100264: luosi122
+    100266: luosi123
+    100268: luosi124
+    100270: luosi125
+    100272: luosi126
+    100274: luosi127
+    100276: luosi128
+    100278: luosi129
+    100280: luosi130
+    100282: luosi131
+    100284: luosi132
+    100286: luosi133
+    100288: luosi134
+    100290: luosi135
+    100292: luosi136
+    100294: luosi137
+    100296: luosi138
+    100298: luosi139
+    100300: luosi140
+    100302: luosi141
+    100304: luosi154
+    100306: luosi155
+    100308: luosi156
+    100310: luosi157
+    100312: luosi158
+    100314: luosi159
+    100316: luosi160
+    100318: luosi161
+    100320: luosi162
+    100322: luosi163
+    100324: luosi164
+    100326: luosi165
+    100328: luosi166
+    100330: luosi167
+    100332: luosi168
+    100334: luosi169
+    100336: luosi170
+    100338: luosi171
+    100340: luosi172
+    100342: luosi173
+    100344: luosi174
+    100346: luosi175
+    100348: luosi176
+    100350: luosi177
+    100352: luosi178
+    100354: luosi179
+    100356: luosi180
+    100358: luosi181
+    100360: luosi182
+    100362: luosi183
+    100364: luosi184
+    100366: luosi185
+    100368: luosi186
+    100370: luosi187
+    100372: luosi188
+    100374: luosi189
+    100376: luosi190
+    100378: luosi191
+    100380: luosi192
+    100382: luosi193
+    100384: luosi194
+    100386: luosi195
+    100388: luosi196
+    100390: luosi197
+    100392: luosi198
+    100394: luosi199
+    100396: luosi200
+    100398: luosi201
+    100400: luosi202
+    100402: luosi203
+    100404: luosi204
+    100406: luosi205
+    100408: luosi206
+    100410: luosi207
+    100412: luosi208
+    100414: luosi209
+    100416: luosi210
+    100418: luosi211
+    100420: luosi212
+    100422: luosi213
+    100424: luosi214
+    100426: luosi215
+    100428: luosi216
+    100430: luosi217
+    100432: luosi218
+    100434: luosi219
+    100436: luosi220
+    100438: luosi221
+    100440: luosi222
+    100442: luosi223
+    100444: luosi224
+    100446: luosi225
+    100448: luosi226
+    100450: luosi227
+    100452: luosi228
+    100454: luosi229
+    100456: luosi230
+    100458: luosi231
+    100460: luosi232
+    100462: luosi233
+    100464: luosi234
+    100466: luosi236
+    100468: luosi237
+    100470: luosi238
+    100472: luosi239
+    100474: luosi240
+    100476: luosi241
+    100478: luosi244
+    100480: luosi245
+    100482: luosi246
+    100484: luosi247
+    100486: luosi248
+    100488: luosi249
+    100490: luosi250
+    100492: luosi251
+    100494: luosi252
+    100496: luosi253
+    100498: luosi254
+    100500: luosi255
+    100502: luosi256
+    100504: luosi257
+    100506: luosi258
+    100508: luosi259
+    100510: luosi260
+    100512: luosi261
+    100514: luosi262
+    100516: luosi263
+    100518: luosi264
+    100520: luosi265
+    100522: luosi266
+    100524: luosi267
+    100526: luosi268
+    100528: luosi275
+    100530: luosi276
+    100532: luosi277
+    100534: luosi278
+    100536: luosi279
+    100538: luosi280
+    100540: luosi281
+    100542: luosi282
+    100544: luosi283
+    100546: luosi284
+    100548: luosi285
+    100550: luosi286
+    100552: luosi287
+    100554: luosi288
+    100556: luosi289
+    100558: luosi290
+    100560: luosi291
+    100562: luosi292
+    100564: luosi293
+    100566: luosi294
+    100568: luosi295
+    100570: luosi296
+    100572: luosi297
+    100574: luosi298
+    100576: luosi299
+    100578: luosi300
+    100580: luosi301
+    100582: luosi302
+    100584: luosi303
+    100586: luosi304
+    100588: luosi305
+    100590: luosi306
+    100592: luosi307
+    100594: luosi308
+    100596: luosi309
+    100598: luosi310
+    100600: luosi311
+    100602: luosi312
+    100604: luosi313
+    100606: luosi314
+    100608: luosi315
+    100610: luosi316
+    100612: luosi317
+    100614: luosi318
+    100616: luosi319
+    100618: luosi320
+    100620: luosi321
+    100622: luosi322
+    100624: luosi323
+    100626: luosi324
+    100628: luosi325
+    100630: luosi326
+    100632: luosi327
+    100634: luosi328
+    100636: luosi329
+    100638: luosi330
+    100640: luosi331
+    100642: luosi332
+    100644: luosi333
+    100646: luosi334
+    100648: luosi335
+    100650: luosi336
+    100652: luosi337
+    100654: luosi338
+    100656: luosi340
+    100658: luosi341
+    100660: luosi342
+    100662: luosi343
+    100664: luosi344
+    100666: luosi345
+    100668: luosi346
+    100670: luosi347
+    100672: luosi348
+    100674: luosi349
+    100676: luosi350
+    100678: luosi351
+    100680: luosi352
+    100682: luosi353
+    100684: luosi354
+    100686: luosi355
+    100688: luosi356
+    100690: luosi357
+    100692: luosi358
+    100694: luosi359
+    100696: luosi360
+    100698: luosi361
+    100700: luosi362
+    100702: luosi363
+    100704: luosi364
+    100706: luosi365
+    100708: luosi366
+    100710: luosi367
+    100712: luosi368
+    100714: luosi369
+    100716: luosi370
+    100718: luosi371
+    100720: luosi372
+    100722: luosi373
+    100724: luosi374
+    100726: luosi375
+    100728: luosi376
+    100730: luosi377
+    100732: luosi378
+    100734: luosi379
+    100736: luosi380
+    100738: luosi381
+    100740: luosi382
+    100742: luosi383
+    100744: luosi384
+    100746: luosi385
+    100748: luosi386
+    100750: luosi387
+    100752: luosi388
+    100754: luosi389
+    100756: luosi390
+    100758: luosi391
+    100760: luosi392
+    100762: luosi393
+    100764: luosi394
+    100766: luosi395
+    100768: luosi397
+    100770: luosi398
+    100772: luosi399
+    100774: luosi400
+    100776: luosi401
+    100778: luosi402
+    100780: luosi403
+    100782: luosi404
+    100784: luosi405
+    100786: mifenggai
+    100788: mifenggai001
+    100790: mifenggai019
+    100792: mifenggai022
+    100794: mifenggai023
+    100796: mifenggai024
+    100798: mifenggai025
+    100800: NGon004
+    100802: NGon021
+    100804: NGon177
+    100806: NGon179
+    100808: Object037
+    100810: Object038
+    100812: Object049
+    100814: Object061
+    100816: Object066
+    100818: Object067
+    100820: Object068
+    100822: Object069
+    100824: Object070
+    100826: Object071
+    100828: Object072
+    100830: Object073
+    100832: Object074
+    100834: Object075
+    100836: Object076
+    100838: Object077
+    100840: Object078
+    100842: Object079
+    100844: Object080
+    100846: Object081
+    100848: Object082
+    100850: Object084
+    100852: Object093
+    100854: Object094
+    100856: Object095
+    100858: Object096
+    100860: Object097
+    100862: Object098
+    100864: Object099
+    100866: Object100
+    100868: Object101
+    100870: tanhuan
+    100872: tanhuan001
+    100874: tanhuan002
+    100876: tanhuan003
+    100878: tanhuan004
+    100880: tanhuan005
+    100882: tanhuan006
+    100884: yelun004
+    100886: yelun005
+    100888: yibiao00
+    100890: yibiao01
+    100892: yibiao02
+    100894: yibiao03
+    100896: yibiao04
+    100898: yibiao05
+    100900: yibiao06
+    100902: zbafa009
+    100904: zhafa005
+    100906: zhafa005 1
+    100908: zhafa006
+    100910: zhafa007
+    100912: luosi406
+    400000: 3AAA
+    400002: 3AAA001
+    400004: Cylinder024
+    400006: Cylinder039
+    400008: Cylinder040
+    400010: Cylinder041
+    400012: Cylinder042
+    400014: dianji
+    400016: dianji001
+    400018: dianji002
+    400020: dizuo1
+    400022: dizuo2
+    400024: dizuo3
+    400026: duiping002
+    400028: duiping003
+    400030: duiping004
+    400032: duiping005
+    400034: duiping006
+    400036: duiping007
+    400038: duiping008
+    400040: duiping009
+    400042: duiping010
+    400044: duiping012
+    400046: duiping013
+    400048: duiping014
+    400050: duiping015
+    400052: duiping016
+    400054: duiping017
+    400056: duiping018
+    400058: duiping019
+    400060: duiping020
+    400062: duiping021
+    400064: duiping022
+    400066: duiping023
+    400068: duiping024
+    400070: duiping025
+    400072: duiping026
+    400074: //RootNode
+    400076: luosi018
+    400078: luosi029
+    400080: luosi030
+    400082: luosi031
+    400084: luosi032
+    400086: luosi033
+    400088: luosi034
+    400090: luosi035
+    400092: luosi036
+    400094: luosi037
+    400096: luosi038
+    400098: luosi039
+    400100: luosi040
+    400102: luosi041
+    400104: luosi042
+    400106: luosi043
+    400108: luosi044
+    400110: luosi045
+    400112: luosi046
+    400114: luosi047
+    400116: luosi048
+    400118: luosi049
+    400120: luosi050
+    400122: luosi051
+    400124: luosi052
+    400126: luosi053
+    400128: luosi054
+    400130: luosi055
+    400132: luosi056
+    400134: luosi057
+    400136: luosi058
+    400138: luosi059
+    400140: luosi060
+    400142: luosi061
+    400144: luosi062
+    400146: luosi063
+    400148: luosi064
+    400150: luosi065
+    400152: luosi066
+    400154: luosi067
+    400156: luosi068
+    400158: luosi069
+    400160: luosi070
+    400162: luosi071
+    400164: luosi072
+    400166: luosi073
+    400168: luosi074
+    400170: luosi075
+    400172: luosi076
+    400174: luosi077
+    400176: luosi078
+    400178: luosi079
+    400180: luosi080
+    400182: luosi081
+    400184: luosi082
+    400186: luosi083
+    400188: luosi084
+    400190: luosi085
+    400192: luosi086
+    400194: luosi087
+    400196: luosi088
+    400198: luosi089
+    400200: luosi090
+    400202: luosi091
+    400204: luosi092
+    400206: luosi093
+    400208: luosi094
+    400210: luosi095
+    400212: luosi096
+    400214: luosi097
+    400216: luosi098
+    400218: luosi099
+    400220: luosi100
+    400222: luosi101
+    400224: luosi102
+    400226: luosi103
+    400228: luosi104
+    400230: luosi105
+    400232: luosi106
+    400234: luosi107
+    400236: luosi108
+    400238: luosi109
+    400240: luosi110
+    400242: luosi111
+    400244: luosi112
+    400246: luosi113
+    400248: luosi114
+    400250: luosi115
+    400252: luosi116
+    400254: luosi117
+    400256: luosi118
+    400258: luosi119
+    400260: luosi120
+    400262: luosi121
+    400264: luosi122
+    400266: luosi123
+    400268: luosi124
+    400270: luosi125
+    400272: luosi126
+    400274: luosi127
+    400276: luosi128
+    400278: luosi129
+    400280: luosi130
+    400282: luosi131
+    400284: luosi132
+    400286: luosi133
+    400288: luosi134
+    400290: luosi135
+    400292: luosi136
+    400294: luosi137
+    400296: luosi138
+    400298: luosi139
+    400300: luosi140
+    400302: luosi141
+    400304: luosi154
+    400306: luosi155
+    400308: luosi156
+    400310: luosi157
+    400312: luosi158
+    400314: luosi159
+    400316: luosi160
+    400318: luosi161
+    400320: luosi162
+    400322: luosi163
+    400324: luosi164
+    400326: luosi165
+    400328: luosi166
+    400330: luosi167
+    400332: luosi168
+    400334: luosi169
+    400336: luosi170
+    400338: luosi171
+    400340: luosi172
+    400342: luosi173
+    400344: luosi174
+    400346: luosi175
+    400348: luosi176
+    400350: luosi177
+    400352: luosi178
+    400354: luosi179
+    400356: luosi180
+    400358: luosi181
+    400360: luosi182
+    400362: luosi183
+    400364: luosi184
+    400366: luosi185
+    400368: luosi186
+    400370: luosi187
+    400372: luosi188
+    400374: luosi189
+    400376: luosi190
+    400378: luosi191
+    400380: luosi192
+    400382: luosi193
+    400384: luosi194
+    400386: luosi195
+    400388: luosi196
+    400390: luosi197
+    400392: luosi198
+    400394: luosi199
+    400396: luosi200
+    400398: luosi201
+    400400: luosi202
+    400402: luosi203
+    400404: luosi204
+    400406: luosi205
+    400408: luosi206
+    400410: luosi207
+    400412: luosi208
+    400414: luosi209
+    400416: luosi210
+    400418: luosi211
+    400420: luosi212
+    400422: luosi213
+    400424: luosi214
+    400426: luosi215
+    400428: luosi216
+    400430: luosi217
+    400432: luosi218
+    400434: luosi219
+    400436: luosi220
+    400438: luosi221
+    400440: luosi222
+    400442: luosi223
+    400444: luosi224
+    400446: luosi225
+    400448: luosi226
+    400450: luosi227
+    400452: luosi228
+    400454: luosi229
+    400456: luosi230
+    400458: luosi231
+    400460: luosi232
+    400462: luosi233
+    400464: luosi234
+    400466: luosi236
+    400468: luosi237
+    400470: luosi238
+    400472: luosi239
+    400474: luosi240
+    400476: luosi241
+    400478: luosi244
+    400480: luosi245
+    400482: luosi246
+    400484: luosi247
+    400486: luosi248
+    400488: luosi249
+    400490: luosi250
+    400492: luosi251
+    400494: luosi252
+    400496: luosi253
+    400498: luosi254
+    400500: luosi255
+    400502: luosi256
+    400504: luosi257
+    400506: luosi258
+    400508: luosi259
+    400510: luosi260
+    400512: luosi261
+    400514: luosi262
+    400516: luosi263
+    400518: luosi264
+    400520: luosi265
+    400522: luosi266
+    400524: luosi267
+    400526: luosi268
+    400528: luosi275
+    400530: luosi276
+    400532: luosi277
+    400534: luosi278
+    400536: luosi279
+    400538: luosi280
+    400540: luosi281
+    400542: luosi282
+    400544: luosi283
+    400546: luosi284
+    400548: luosi285
+    400550: luosi286
+    400552: luosi287
+    400554: luosi288
+    400556: luosi289
+    400558: luosi290
+    400560: luosi291
+    400562: luosi292
+    400564: luosi293
+    400566: luosi294
+    400568: luosi295
+    400570: luosi296
+    400572: luosi297
+    400574: luosi298
+    400576: luosi299
+    400578: luosi300
+    400580: luosi301
+    400582: luosi302
+    400584: luosi303
+    400586: luosi304
+    400588: luosi305
+    400590: luosi306
+    400592: luosi307
+    400594: luosi308
+    400596: luosi309
+    400598: luosi310
+    400600: luosi311
+    400602: luosi312
+    400604: luosi313
+    400606: luosi314
+    400608: luosi315
+    400610: luosi316
+    400612: luosi317
+    400614: luosi318
+    400616: luosi319
+    400618: luosi320
+    400620: luosi321
+    400622: luosi322
+    400624: luosi323
+    400626: luosi324
+    400628: luosi325
+    400630: luosi326
+    400632: luosi327
+    400634: luosi328
+    400636: luosi329
+    400638: luosi330
+    400640: luosi331
+    400642: luosi332
+    400644: luosi333
+    400646: luosi334
+    400648: luosi335
+    400650: luosi336
+    400652: luosi337
+    400654: luosi338
+    400656: luosi340
+    400658: luosi341
+    400660: luosi342
+    400662: luosi343
+    400664: luosi344
+    400666: luosi345
+    400668: luosi346
+    400670: luosi347
+    400672: luosi348
+    400674: luosi349
+    400676: luosi350
+    400678: luosi351
+    400680: luosi352
+    400682: luosi353
+    400684: luosi354
+    400686: luosi355
+    400688: luosi356
+    400690: luosi357
+    400692: luosi358
+    400694: luosi359
+    400696: luosi360
+    400698: luosi361
+    400700: luosi362
+    400702: luosi363
+    400704: luosi364
+    400706: luosi365
+    400708: luosi366
+    400710: luosi367
+    400712: luosi368
+    400714: luosi369
+    400716: luosi370
+    400718: luosi371
+    400720: luosi372
+    400722: luosi373
+    400724: luosi374
+    400726: luosi375
+    400728: luosi376
+    400730: luosi377
+    400732: luosi378
+    400734: luosi379
+    400736: luosi380
+    400738: luosi381
+    400740: luosi382
+    400742: luosi383
+    400744: luosi384
+    400746: luosi385
+    400748: luosi386
+    400750: luosi387
+    400752: luosi388
+    400754: luosi389
+    400756: luosi390
+    400758: luosi391
+    400760: luosi392
+    400762: luosi393
+    400764: luosi394
+    400766: luosi395
+    400768: luosi397
+    400770: luosi398
+    400772: luosi399
+    400774: luosi400
+    400776: luosi401
+    400778: luosi402
+    400780: luosi403
+    400782: luosi404
+    400784: luosi405
+    400786: mifenggai
+    400788: mifenggai001
+    400790: mifenggai019
+    400792: mifenggai022
+    400794: mifenggai023
+    400796: mifenggai024
+    400798: mifenggai025
+    400800: NGon004
+    400802: NGon021
+    400804: NGon177
+    400806: NGon179
+    400808: Object037
+    400810: Object038
+    400812: Object049
+    400814: Object061
+    400816: Object066
+    400818: Object067
+    400820: Object068
+    400822: Object069
+    400824: Object070
+    400826: Object071
+    400828: Object072
+    400830: Object073
+    400832: Object074
+    400834: Object075
+    400836: Object076
+    400838: Object077
+    400840: Object078
+    400842: Object079
+    400844: Object080
+    400846: Object081
+    400848: Object082
+    400850: Object084
+    400852: Object093
+    400854: Object094
+    400856: Object095
+    400858: Object096
+    400860: Object097
+    400862: Object098
+    400864: Object099
+    400866: Object100
+    400868: Object101
+    400870: tanhuan
+    400872: tanhuan001
+    400874: tanhuan002
+    400876: tanhuan003
+    400878: tanhuan004
+    400880: tanhuan005
+    400882: tanhuan006
+    400884: yelun004
+    400886: yelun005
+    400888: yibiao00
+    400890: yibiao01
+    400892: yibiao02
+    400894: yibiao03
+    400896: yibiao04
+    400898: yibiao05
+    400900: yibiao06
+    400902: zbafa009
+    400904: zhafa005
+    400906: zhafa005 1
+    400908: zhafa006
+    400910: zhafa007
+    400912: luosi406
+    2300000: 3AAA
+    2300002: 3AAA001
+    2300004: Cylinder024
+    2300006: Cylinder039
+    2300008: Cylinder040
+    2300010: Cylinder041
+    2300012: Cylinder042
+    2300014: dianji
+    2300016: dianji001
+    2300018: dianji002
+    2300020: dizuo1
+    2300022: dizuo2
+    2300024: dizuo3
+    2300026: duiping002
+    2300028: duiping003
+    2300030: duiping004
+    2300032: duiping005
+    2300034: duiping006
+    2300036: duiping007
+    2300038: duiping008
+    2300040: duiping009
+    2300042: duiping010
+    2300044: duiping012
+    2300046: duiping013
+    2300048: duiping014
+    2300050: duiping015
+    2300052: duiping016
+    2300054: duiping017
+    2300056: duiping018
+    2300058: duiping019
+    2300060: duiping020
+    2300062: duiping021
+    2300064: duiping022
+    2300066: duiping023
+    2300068: duiping024
+    2300070: duiping025
+    2300072: duiping026
+    2300074: luosi018
+    2300076: luosi029
+    2300078: luosi030
+    2300080: luosi031
+    2300082: luosi032
+    2300084: luosi033
+    2300086: luosi034
+    2300088: luosi035
+    2300090: luosi036
+    2300092: luosi037
+    2300094: luosi038
+    2300096: luosi039
+    2300098: luosi040
+    2300100: luosi041
+    2300102: luosi042
+    2300104: luosi043
+    2300106: luosi044
+    2300108: luosi045
+    2300110: luosi046
+    2300112: luosi047
+    2300114: luosi048
+    2300116: luosi049
+    2300118: luosi050
+    2300120: luosi051
+    2300122: luosi052
+    2300124: luosi053
+    2300126: luosi054
+    2300128: luosi055
+    2300130: luosi056
+    2300132: luosi057
+    2300134: luosi058
+    2300136: luosi059
+    2300138: luosi060
+    2300140: luosi061
+    2300142: luosi062
+    2300144: luosi063
+    2300146: luosi064
+    2300148: luosi065
+    2300150: luosi066
+    2300152: luosi067
+    2300154: luosi068
+    2300156: luosi069
+    2300158: luosi070
+    2300160: luosi071
+    2300162: luosi072
+    2300164: luosi073
+    2300166: luosi074
+    2300168: luosi075
+    2300170: luosi076
+    2300172: luosi077
+    2300174: luosi078
+    2300176: luosi079
+    2300178: luosi080
+    2300180: luosi081
+    2300182: luosi082
+    2300184: luosi083
+    2300186: luosi084
+    2300188: luosi085
+    2300190: luosi086
+    2300192: luosi087
+    2300194: luosi088
+    2300196: luosi089
+    2300198: luosi090
+    2300200: luosi091
+    2300202: luosi092
+    2300204: luosi093
+    2300206: luosi094
+    2300208: luosi095
+    2300210: luosi096
+    2300212: luosi097
+    2300214: luosi098
+    2300216: luosi099
+    2300218: luosi100
+    2300220: luosi101
+    2300222: luosi102
+    2300224: luosi103
+    2300226: luosi104
+    2300228: luosi105
+    2300230: luosi106
+    2300232: luosi107
+    2300234: luosi108
+    2300236: luosi109
+    2300238: luosi110
+    2300240: luosi111
+    2300242: luosi112
+    2300244: luosi113
+    2300246: luosi114
+    2300248: luosi115
+    2300250: luosi116
+    2300252: luosi117
+    2300254: luosi118
+    2300256: luosi119
+    2300258: luosi120
+    2300260: luosi121
+    2300262: luosi122
+    2300264: luosi123
+    2300266: luosi124
+    2300268: luosi125
+    2300270: luosi126
+    2300272: luosi127
+    2300274: luosi128
+    2300276: luosi129
+    2300278: luosi130
+    2300280: luosi131
+    2300282: luosi132
+    2300284: luosi133
+    2300286: luosi134
+    2300288: luosi135
+    2300290: luosi136
+    2300292: luosi137
+    2300294: luosi138
+    2300296: luosi139
+    2300298: luosi140
+    2300300: luosi141
+    2300302: luosi154
+    2300304: luosi155
+    2300306: luosi156
+    2300308: luosi157
+    2300310: luosi158
+    2300312: luosi159
+    2300314: luosi160
+    2300316: luosi161
+    2300318: luosi162
+    2300320: luosi163
+    2300322: luosi164
+    2300324: luosi165
+    2300326: luosi166
+    2300328: luosi167
+    2300330: luosi168
+    2300332: luosi169
+    2300334: luosi170
+    2300336: luosi171
+    2300338: luosi172
+    2300340: luosi173
+    2300342: luosi174
+    2300344: luosi175
+    2300346: luosi176
+    2300348: luosi177
+    2300350: luosi178
+    2300352: luosi179
+    2300354: luosi180
+    2300356: luosi181
+    2300358: luosi182
+    2300360: luosi183
+    2300362: luosi184
+    2300364: luosi185
+    2300366: luosi186
+    2300368: luosi187
+    2300370: luosi188
+    2300372: luosi189
+    2300374: luosi190
+    2300376: luosi191
+    2300378: luosi192
+    2300380: luosi193
+    2300382: luosi194
+    2300384: luosi195
+    2300386: luosi196
+    2300388: luosi197
+    2300390: luosi198
+    2300392: luosi199
+    2300394: luosi200
+    2300396: luosi201
+    2300398: luosi202
+    2300400: luosi203
+    2300402: luosi204
+    2300404: luosi205
+    2300406: luosi206
+    2300408: luosi207
+    2300410: luosi208
+    2300412: luosi209
+    2300414: luosi210
+    2300416: luosi211
+    2300418: luosi212
+    2300420: luosi213
+    2300422: luosi214
+    2300424: luosi215
+    2300426: luosi216
+    2300428: luosi217
+    2300430: luosi218
+    2300432: luosi219
+    2300434: luosi220
+    2300436: luosi221
+    2300438: luosi222
+    2300440: luosi223
+    2300442: luosi224
+    2300444: luosi225
+    2300446: luosi226
+    2300448: luosi227
+    2300450: luosi228
+    2300452: luosi229
+    2300454: luosi230
+    2300456: luosi231
+    2300458: luosi232
+    2300460: luosi233
+    2300462: luosi234
+    2300464: luosi236
+    2300466: luosi237
+    2300468: luosi238
+    2300470: luosi239
+    2300472: luosi240
+    2300474: luosi241
+    2300476: luosi244
+    2300478: luosi245
+    2300480: luosi246
+    2300482: luosi247
+    2300484: luosi248
+    2300486: luosi249
+    2300488: luosi250
+    2300490: luosi251
+    2300492: luosi252
+    2300494: luosi253
+    2300496: luosi254
+    2300498: luosi255
+    2300500: luosi256
+    2300502: luosi257
+    2300504: luosi258
+    2300506: luosi259
+    2300508: luosi260
+    2300510: luosi261
+    2300512: luosi262
+    2300514: luosi263
+    2300516: luosi264
+    2300518: luosi265
+    2300520: luosi266
+    2300522: luosi267
+    2300524: luosi268
+    2300526: luosi275
+    2300528: luosi276
+    2300530: luosi277
+    2300532: luosi278
+    2300534: luosi279
+    2300536: luosi280
+    2300538: luosi281
+    2300540: luosi282
+    2300542: luosi283
+    2300544: luosi284
+    2300546: luosi285
+    2300548: luosi286
+    2300550: luosi287
+    2300552: luosi288
+    2300554: luosi289
+    2300556: luosi290
+    2300558: luosi291
+    2300560: luosi292
+    2300562: luosi293
+    2300564: luosi294
+    2300566: luosi295
+    2300568: luosi296
+    2300570: luosi297
+    2300572: luosi298
+    2300574: luosi299
+    2300576: luosi300
+    2300578: luosi301
+    2300580: luosi302
+    2300582: luosi303
+    2300584: luosi304
+    2300586: luosi305
+    2300588: luosi306
+    2300590: luosi307
+    2300592: luosi308
+    2300594: luosi309
+    2300596: luosi310
+    2300598: luosi311
+    2300600: luosi312
+    2300602: luosi313
+    2300604: luosi314
+    2300606: luosi315
+    2300608: luosi316
+    2300610: luosi317
+    2300612: luosi318
+    2300614: luosi319
+    2300616: luosi320
+    2300618: luosi321
+    2300620: luosi322
+    2300622: luosi323
+    2300624: luosi324
+    2300626: luosi325
+    2300628: luosi326
+    2300630: luosi327
+    2300632: luosi328
+    2300634: luosi329
+    2300636: luosi330
+    2300638: luosi331
+    2300640: luosi332
+    2300642: luosi333
+    2300644: luosi334
+    2300646: luosi335
+    2300648: luosi336
+    2300650: luosi337
+    2300652: luosi338
+    2300654: luosi340
+    2300656: luosi341
+    2300658: luosi342
+    2300660: luosi343
+    2300662: luosi344
+    2300664: luosi345
+    2300666: luosi346
+    2300668: luosi347
+    2300670: luosi348
+    2300672: luosi349
+    2300674: luosi350
+    2300676: luosi351
+    2300678: luosi352
+    2300680: luosi353
+    2300682: luosi354
+    2300684: luosi355
+    2300686: luosi356
+    2300688: luosi357
+    2300690: luosi358
+    2300692: luosi359
+    2300694: luosi360
+    2300696: luosi361
+    2300698: luosi362
+    2300700: luosi363
+    2300702: luosi364
+    2300704: luosi365
+    2300706: luosi366
+    2300708: luosi367
+    2300710: luosi368
+    2300712: luosi369
+    2300714: luosi370
+    2300716: luosi371
+    2300718: luosi372
+    2300720: luosi373
+    2300722: luosi374
+    2300724: luosi375
+    2300726: luosi376
+    2300728: luosi377
+    2300730: luosi378
+    2300732: luosi379
+    2300734: luosi380
+    2300736: luosi381
+    2300738: luosi382
+    2300740: luosi383
+    2300742: luosi384
+    2300744: luosi385
+    2300746: luosi386
+    2300748: luosi387
+    2300750: luosi388
+    2300752: luosi389
+    2300754: luosi390
+    2300756: luosi391
+    2300758: luosi392
+    2300760: luosi393
+    2300762: luosi394
+    2300764: luosi395
+    2300766: luosi397
+    2300768: luosi398
+    2300770: luosi399
+    2300772: luosi400
+    2300774: luosi401
+    2300776: luosi402
+    2300778: luosi403
+    2300780: luosi404
+    2300782: luosi405
+    2300784: mifenggai
+    2300786: mifenggai001
+    2300788: mifenggai019
+    2300790: mifenggai022
+    2300792: mifenggai023
+    2300794: mifenggai024
+    2300796: mifenggai025
+    2300798: NGon004
+    2300800: NGon021
+    2300802: NGon177
+    2300804: NGon179
+    2300806: Object037
+    2300808: Object038
+    2300810: Object049
+    2300812: Object061
+    2300814: Object066
+    2300816: Object067
+    2300818: Object068
+    2300820: Object069
+    2300822: Object070
+    2300824: Object071
+    2300826: Object072
+    2300828: Object073
+    2300830: Object074
+    2300832: Object075
+    2300834: Object076
+    2300836: Object077
+    2300838: Object078
+    2300840: Object079
+    2300842: Object080
+    2300844: Object081
+    2300846: Object082
+    2300848: Object084
+    2300850: Object093
+    2300852: Object094
+    2300854: Object095
+    2300856: Object096
+    2300858: Object097
+    2300860: Object098
+    2300862: Object099
+    2300864: Object100
+    2300866: Object101
+    2300868: tanhuan
+    2300870: tanhuan001
+    2300872: tanhuan002
+    2300874: tanhuan003
+    2300876: tanhuan004
+    2300878: tanhuan005
+    2300880: tanhuan006
+    2300882: yelun004
+    2300884: yelun005
+    2300886: yibiao00
+    2300888: yibiao01
+    2300890: yibiao02
+    2300892: yibiao03
+    2300894: yibiao04
+    2300896: yibiao05
+    2300898: yibiao06
+    2300900: zbafa009
+    2300902: zhafa005
+    2300904: zhafa005 1
+    2300906: zhafa006
+    2300908: zhafa007
+    2300910: luosi406
+    3300000: 3AAA
+    3300002: 3AAA001
+    3300004: Cylinder024
+    3300006: Cylinder039
+    3300008: Cylinder040
+    3300010: Cylinder041
+    3300012: Cylinder042
+    3300014: dianji
+    3300016: dianji001
+    3300018: dianji002
+    3300020: dizuo1
+    3300022: dizuo2
+    3300024: dizuo3
+    3300026: duiping002
+    3300028: duiping003
+    3300030: duiping004
+    3300032: duiping005
+    3300034: duiping006
+    3300036: duiping007
+    3300038: duiping008
+    3300040: duiping009
+    3300042: duiping010
+    3300044: duiping012
+    3300046: duiping013
+    3300048: duiping014
+    3300050: duiping015
+    3300052: duiping016
+    3300054: duiping017
+    3300056: duiping018
+    3300058: duiping019
+    3300060: duiping020
+    3300062: duiping021
+    3300064: duiping022
+    3300066: duiping023
+    3300068: duiping024
+    3300070: duiping025
+    3300072: duiping026
+    3300074: luosi018
+    3300076: luosi029
+    3300078: luosi030
+    3300080: luosi031
+    3300082: luosi032
+    3300084: luosi033
+    3300086: luosi034
+    3300088: luosi035
+    3300090: luosi036
+    3300092: luosi037
+    3300094: luosi038
+    3300096: luosi039
+    3300098: luosi040
+    3300100: luosi041
+    3300102: luosi042
+    3300104: luosi043
+    3300106: luosi044
+    3300108: luosi045
+    3300110: luosi046
+    3300112: luosi047
+    3300114: luosi048
+    3300116: luosi049
+    3300118: luosi050
+    3300120: luosi051
+    3300122: luosi052
+    3300124: luosi053
+    3300126: luosi054
+    3300128: luosi055
+    3300130: luosi056
+    3300132: luosi057
+    3300134: luosi058
+    3300136: luosi059
+    3300138: luosi060
+    3300140: luosi061
+    3300142: luosi062
+    3300144: luosi063
+    3300146: luosi064
+    3300148: luosi065
+    3300150: luosi066
+    3300152: luosi067
+    3300154: luosi068
+    3300156: luosi069
+    3300158: luosi070
+    3300160: luosi071
+    3300162: luosi072
+    3300164: luosi073
+    3300166: luosi074
+    3300168: luosi075
+    3300170: luosi076
+    3300172: luosi077
+    3300174: luosi078
+    3300176: luosi079
+    3300178: luosi080
+    3300180: luosi081
+    3300182: luosi082
+    3300184: luosi083
+    3300186: luosi084
+    3300188: luosi085
+    3300190: luosi086
+    3300192: luosi087
+    3300194: luosi088
+    3300196: luosi089
+    3300198: luosi090
+    3300200: luosi091
+    3300202: luosi092
+    3300204: luosi093
+    3300206: luosi094
+    3300208: luosi095
+    3300210: luosi096
+    3300212: luosi097
+    3300214: luosi098
+    3300216: luosi099
+    3300218: luosi100
+    3300220: luosi101
+    3300222: luosi102
+    3300224: luosi103
+    3300226: luosi104
+    3300228: luosi105
+    3300230: luosi106
+    3300232: luosi107
+    3300234: luosi108
+    3300236: luosi109
+    3300238: luosi110
+    3300240: luosi111
+    3300242: luosi112
+    3300244: luosi113
+    3300246: luosi114
+    3300248: luosi115
+    3300250: luosi116
+    3300252: luosi117
+    3300254: luosi118
+    3300256: luosi119
+    3300258: luosi120
+    3300260: luosi121
+    3300262: luosi122
+    3300264: luosi123
+    3300266: luosi124
+    3300268: luosi125
+    3300270: luosi126
+    3300272: luosi127
+    3300274: luosi128
+    3300276: luosi129
+    3300278: luosi130
+    3300280: luosi131
+    3300282: luosi132
+    3300284: luosi133
+    3300286: luosi134
+    3300288: luosi135
+    3300290: luosi136
+    3300292: luosi137
+    3300294: luosi138
+    3300296: luosi139
+    3300298: luosi140
+    3300300: luosi141
+    3300302: luosi154
+    3300304: luosi155
+    3300306: luosi156
+    3300308: luosi157
+    3300310: luosi158
+    3300312: luosi159
+    3300314: luosi160
+    3300316: luosi161
+    3300318: luosi162
+    3300320: luosi163
+    3300322: luosi164
+    3300324: luosi165
+    3300326: luosi166
+    3300328: luosi167
+    3300330: luosi168
+    3300332: luosi169
+    3300334: luosi170
+    3300336: luosi171
+    3300338: luosi172
+    3300340: luosi173
+    3300342: luosi174
+    3300344: luosi175
+    3300346: luosi176
+    3300348: luosi177
+    3300350: luosi178
+    3300352: luosi179
+    3300354: luosi180
+    3300356: luosi181
+    3300358: luosi182
+    3300360: luosi183
+    3300362: luosi184
+    3300364: luosi185
+    3300366: luosi186
+    3300368: luosi187
+    3300370: luosi188
+    3300372: luosi189
+    3300374: luosi190
+    3300376: luosi191
+    3300378: luosi192
+    3300380: luosi193
+    3300382: luosi194
+    3300384: luosi195
+    3300386: luosi196
+    3300388: luosi197
+    3300390: luosi198
+    3300392: luosi199
+    3300394: luosi200
+    3300396: luosi201
+    3300398: luosi202
+    3300400: luosi203
+    3300402: luosi204
+    3300404: luosi205
+    3300406: luosi206
+    3300408: luosi207
+    3300410: luosi208
+    3300412: luosi209
+    3300414: luosi210
+    3300416: luosi211
+    3300418: luosi212
+    3300420: luosi213
+    3300422: luosi214
+    3300424: luosi215
+    3300426: luosi216
+    3300428: luosi217
+    3300430: luosi218
+    3300432: luosi219
+    3300434: luosi220
+    3300436: luosi221
+    3300438: luosi222
+    3300440: luosi223
+    3300442: luosi224
+    3300444: luosi225
+    3300446: luosi226
+    3300448: luosi227
+    3300450: luosi228
+    3300452: luosi229
+    3300454: luosi230
+    3300456: luosi231
+    3300458: luosi232
+    3300460: luosi233
+    3300462: luosi234
+    3300464: luosi236
+    3300466: luosi237
+    3300468: luosi238
+    3300470: luosi239
+    3300472: luosi240
+    3300474: luosi241
+    3300476: luosi244
+    3300478: luosi245
+    3300480: luosi246
+    3300482: luosi247
+    3300484: luosi248
+    3300486: luosi249
+    3300488: luosi250
+    3300490: luosi251
+    3300492: luosi252
+    3300494: luosi253
+    3300496: luosi254
+    3300498: luosi255
+    3300500: luosi256
+    3300502: luosi257
+    3300504: luosi258
+    3300506: luosi259
+    3300508: luosi260
+    3300510: luosi261
+    3300512: luosi262
+    3300514: luosi263
+    3300516: luosi264
+    3300518: luosi265
+    3300520: luosi266
+    3300522: luosi267
+    3300524: luosi268
+    3300526: luosi275
+    3300528: luosi276
+    3300530: luosi277
+    3300532: luosi278
+    3300534: luosi279
+    3300536: luosi280
+    3300538: luosi281
+    3300540: luosi282
+    3300542: luosi283
+    3300544: luosi284
+    3300546: luosi285
+    3300548: luosi286
+    3300550: luosi287
+    3300552: luosi288
+    3300554: luosi289
+    3300556: luosi290
+    3300558: luosi291
+    3300560: luosi292
+    3300562: luosi293
+    3300564: luosi294
+    3300566: luosi295
+    3300568: luosi296
+    3300570: luosi297
+    3300572: luosi298
+    3300574: luosi299
+    3300576: luosi300
+    3300578: luosi301
+    3300580: luosi302
+    3300582: luosi303
+    3300584: luosi304
+    3300586: luosi305
+    3300588: luosi306
+    3300590: luosi307
+    3300592: luosi308
+    3300594: luosi309
+    3300596: luosi310
+    3300598: luosi311
+    3300600: luosi312
+    3300602: luosi313
+    3300604: luosi314
+    3300606: luosi315
+    3300608: luosi316
+    3300610: luosi317
+    3300612: luosi318
+    3300614: luosi319
+    3300616: luosi320
+    3300618: luosi321
+    3300620: luosi322
+    3300622: luosi323
+    3300624: luosi324
+    3300626: luosi325
+    3300628: luosi326
+    3300630: luosi327
+    3300632: luosi328
+    3300634: luosi329
+    3300636: luosi330
+    3300638: luosi331
+    3300640: luosi332
+    3300642: luosi333
+    3300644: luosi334
+    3300646: luosi335
+    3300648: luosi336
+    3300650: luosi337
+    3300652: luosi338
+    3300654: luosi340
+    3300656: luosi341
+    3300658: luosi342
+    3300660: luosi343
+    3300662: luosi344
+    3300664: luosi345
+    3300666: luosi346
+    3300668: luosi347
+    3300670: luosi348
+    3300672: luosi349
+    3300674: luosi350
+    3300676: luosi351
+    3300678: luosi352
+    3300680: luosi353
+    3300682: luosi354
+    3300684: luosi355
+    3300686: luosi356
+    3300688: luosi357
+    3300690: luosi358
+    3300692: luosi359
+    3300694: luosi360
+    3300696: luosi361
+    3300698: luosi362
+    3300700: luosi363
+    3300702: luosi364
+    3300704: luosi365
+    3300706: luosi366
+    3300708: luosi367
+    3300710: luosi368
+    3300712: luosi369
+    3300714: luosi370
+    3300716: luosi371
+    3300718: luosi372
+    3300720: luosi373
+    3300722: luosi374
+    3300724: luosi375
+    3300726: luosi376
+    3300728: luosi377
+    3300730: luosi378
+    3300732: luosi379
+    3300734: luosi380
+    3300736: luosi381
+    3300738: luosi382
+    3300740: luosi383
+    3300742: luosi384
+    3300744: luosi385
+    3300746: luosi386
+    3300748: luosi387
+    3300750: luosi388
+    3300752: luosi389
+    3300754: luosi390
+    3300756: luosi391
+    3300758: luosi392
+    3300760: luosi393
+    3300762: luosi394
+    3300764: luosi395
+    3300766: luosi397
+    3300768: luosi398
+    3300770: luosi399
+    3300772: luosi400
+    3300774: luosi401
+    3300776: luosi402
+    3300778: luosi403
+    3300780: luosi404
+    3300782: luosi405
+    3300784: mifenggai
+    3300786: mifenggai001
+    3300788: mifenggai019
+    3300790: mifenggai022
+    3300792: mifenggai023
+    3300794: mifenggai024
+    3300796: mifenggai025
+    3300798: NGon004
+    3300800: NGon021
+    3300802: NGon177
+    3300804: NGon179
+    3300806: Object037
+    3300808: Object038
+    3300810: Object049
+    3300812: Object061
+    3300814: Object066
+    3300816: Object067
+    3300818: Object068
+    3300820: Object069
+    3300822: Object070
+    3300824: Object071
+    3300826: Object072
+    3300828: Object073
+    3300830: Object074
+    3300832: Object075
+    3300834: Object076
+    3300836: Object077
+    3300838: Object078
+    3300840: Object079
+    3300842: Object080
+    3300844: Object081
+    3300846: Object082
+    3300848: Object084
+    3300850: Object093
+    3300852: Object094
+    3300854: Object095
+    3300856: Object096
+    3300858: Object097
+    3300860: Object098
+    3300862: Object099
+    3300864: Object100
+    3300866: Object101
+    3300868: tanhuan
+    3300870: tanhuan001
+    3300872: tanhuan002
+    3300874: tanhuan003
+    3300876: tanhuan004
+    3300878: tanhuan005
+    3300880: tanhuan006
+    3300882: yelun004
+    3300884: yelun005
+    3300886: yibiao00
+    3300888: yibiao01
+    3300890: yibiao02
+    3300892: yibiao03
+    3300894: yibiao04
+    3300896: yibiao05
+    3300898: yibiao06
+    3300900: zbafa009
+    3300902: zhafa005
+    3300904: zhafa005 1
+    3300906: zhafa006
+    3300908: zhafa007
+    3300910: luosi406
+    4300000: NGon021
+    4300002: Object038
+    4300004: dianji
+    4300006: Object049
+    4300008: NGon004
+    4300010: Object037
+    4300012: NGon177
+    4300014: NGon179
+    4300016: Cylinder024
+    4300018: Object061
+    4300020: Object066
+    4300022: Object070
+    4300024: Object071
+    4300026: Object072
+    4300028: Object067
+    4300030: Object068
+    4300032: Object069
+    4300034: Object073
+    4300036: Object074
+    4300038: Object076
+    4300040: Object075
+    4300042: Object077
+    4300044: Object078
+    4300046: Object079
+    4300048: Object081
+    4300050: Object080
+    4300052: Object082
+    4300054: zhafa005
+    4300056: zhafa005
+    4300058: dizuo1
+    4300060: dizuo2
+    4300062: dizuo3
+    4300064: Object093
+    4300066: Object094
+    4300068: Object095
+    4300070: Object096
+    4300072: Object097
+    4300074: Object098
+    4300076: 3AAA001
+    4300078: 3AAA
+    4300080: tanhuan
+    4300082: mifenggai
+    4300084: Object084
+    4300086: yelun004
+    4300088: tanhuan001
+    4300090: tanhuan002
+    4300092: tanhuan003
+    4300094: tanhuan004
+    4300096: tanhuan005
+    4300098: tanhuan006
+    4300100: yelun005
+    4300102: mifenggai001
+    4300104: mifenggai019
+    4300106: mifenggai022
+    4300108: mifenggai023
+    4300110: mifenggai024
+    4300112: mifenggai025
+    4300114: dianji001
+    4300116: dianji002
+    4300118: Object099
+    4300120: Object100
+    4300122: Cylinder039
+    4300124: Cylinder040
+    4300126: Cylinder041
+    4300128: Cylinder042
+    4300130: duiping003
+    4300132: duiping019
+    4300134: duiping005
+    4300136: duiping008
+    4300138: duiping009
+    4300140: duiping006
+    4300142: duiping002
+    4300144: duiping015
+    4300146: duiping020
+    4300148: duiping024
+    4300150: duiping025
+    4300152: duiping022
+    4300154: duiping014
+    4300156: duiping016
+    4300158: duiping017
+    4300160: duiping012
+    4300162: duiping010
+    4300164: duiping007
+    4300166: duiping004
+    4300168: duiping023
+    4300170: duiping021
+    4300172: duiping018
+    4300174: duiping026
+    4300176: duiping013
+    4300178: yibiao01
+    4300180: yibiao05
+    4300182: yibiao00
+    4300184: yibiao02
+    4300186: yibiao06
+    4300188: yibiao03
+    4300190: yibiao04
+    4300192: luosi018
+    4300194: luosi029
+    4300196: luosi030
+    4300198: luosi031
+    4300200: luosi032
+    4300202: luosi033
+    4300204: luosi034
+    4300206: luosi035
+    4300208: luosi036
+    4300210: luosi037
+    4300212: luosi038
+    4300214: luosi039
+    4300216: luosi040
+    4300218: luosi041
+    4300220: luosi042
+    4300222: luosi043
+    4300224: luosi044
+    4300226: luosi045
+    4300228: luosi046
+    4300230: luosi047
+    4300232: luosi048
+    4300234: luosi049
+    4300236: luosi050
+    4300238: luosi051
+    4300240: luosi052
+    4300242: luosi053
+    4300244: luosi054
+    4300246: luosi055
+    4300248: luosi056
+    4300250: luosi057
+    4300252: luosi058
+    4300254: luosi059
+    4300256: luosi060
+    4300258: luosi061
+    4300260: luosi062
+    4300262: luosi063
+    4300264: luosi064
+    4300266: luosi065
+    4300268: luosi066
+    4300270: luosi067
+    4300272: luosi068
+    4300274: luosi069
+    4300276: luosi070
+    4300278: luosi071
+    4300280: luosi072
+    4300282: luosi073
+    4300284: luosi074
+    4300286: luosi075
+    4300288: luosi076
+    4300290: luosi077
+    4300292: luosi078
+    4300294: luosi079
+    4300296: luosi080
+    4300298: luosi081
+    4300300: luosi082
+    4300302: luosi083
+    4300304: luosi084
+    4300306: luosi085
+    4300308: zhafa006
+    4300310: luosi086
+    4300312: luosi087
+    4300314: luosi088
+    4300316: luosi089
+    4300318: luosi090
+    4300320: luosi091
+    4300322: luosi092
+    4300324: luosi093
+    4300326: luosi094
+    4300328: luosi095
+    4300330: luosi096
+    4300332: luosi097
+    4300334: luosi098
+    4300336: luosi099
+    4300338: luosi100
+    4300340: luosi101
+    4300342: luosi102
+    4300344: luosi103
+    4300346: luosi104
+    4300348: luosi105
+    4300350: luosi106
+    4300352: luosi107
+    4300354: luosi108
+    4300356: luosi109
+    4300358: luosi110
+    4300360: luosi111
+    4300362: luosi112
+    4300364: luosi113
+    4300366: luosi114
+    4300368: luosi115
+    4300370: luosi116
+    4300372: luosi117
+    4300374: luosi118
+    4300376: luosi119
+    4300378: luosi120
+    4300380: luosi121
+    4300382: luosi122
+    4300384: luosi123
+    4300386: luosi124
+    4300388: luosi125
+    4300390: luosi126
+    4300392: luosi127
+    4300394: luosi128
+    4300396: luosi129
+    4300398: luosi130
+    4300400: luosi131
+    4300402: luosi132
+    4300404: luosi133
+    4300406: luosi134
+    4300408: luosi135
+    4300410: luosi136
+    4300412: luosi137
+    4300414: luosi138
+    4300416: luosi139
+    4300418: luosi140
+    4300420: luosi141
+    4300422: luosi154
+    4300424: luosi155
+    4300426: luosi156
+    4300428: luosi157
+    4300430: luosi158
+    4300432: luosi159
+    4300434: luosi160
+    4300436: luosi161
+    4300438: luosi162
+    4300440: luosi163
+    4300442: luosi164
+    4300444: luosi165
+    4300446: luosi166
+    4300448: luosi167
+    4300450: luosi168
+    4300452: luosi169
+    4300454: luosi170
+    4300456: luosi171
+    4300458: luosi172
+    4300460: luosi173
+    4300462: luosi174
+    4300464: luosi175
+    4300466: luosi176
+    4300468: luosi177
+    4300470: luosi178
+    4300472: luosi179
+    4300474: luosi180
+    4300476: luosi181
+    4300478: luosi182
+    4300480: luosi183
+    4300482: luosi184
+    4300484: luosi185
+    4300486: luosi186
+    4300488: luosi187
+    4300490: luosi188
+    4300492: luosi189
+    4300494: luosi190
+    4300496: luosi191
+    4300498: luosi192
+    4300500: luosi193
+    4300502: luosi194
+    4300504: luosi195
+    4300506: luosi196
+    4300508: luosi197
+    4300510: luosi198
+    4300512: luosi199
+    4300514: luosi200
+    4300516: luosi201
+    4300518: luosi202
+    4300520: luosi203
+    4300522: luosi204
+    4300524: luosi205
+    4300526: luosi206
+    4300528: luosi207
+    4300530: luosi208
+    4300532: luosi209
+    4300534: luosi210
+    4300536: luosi211
+    4300538: luosi212
+    4300540: luosi213
+    4300542: luosi214
+    4300544: luosi215
+    4300546: luosi216
+    4300548: luosi217
+    4300550: luosi218
+    4300552: luosi219
+    4300554: luosi220
+    4300556: luosi221
+    4300558: luosi222
+    4300560: luosi223
+    4300562: luosi224
+    4300564: luosi225
+    4300566: luosi226
+    4300568: luosi227
+    4300570: luosi228
+    4300572: luosi229
+    4300574: luosi230
+    4300576: luosi231
+    4300578: luosi232
+    4300580: luosi233
+    4300582: luosi234
+    4300584: luosi236
+    4300586: luosi237
+    4300588: luosi238
+    4300590: luosi239
+    4300592: luosi240
+    4300594: luosi241
+    4300596: luosi244
+    4300598: luosi245
+    4300600: luosi246
+    4300602: luosi247
+    4300604: luosi248
+    4300606: luosi249
+    4300608: luosi250
+    4300610: luosi251
+    4300612: luosi252
+    4300614: luosi253
+    4300616: luosi254
+    4300618: luosi255
+    4300620: luosi256
+    4300622: luosi257
+    4300624: luosi258
+    4300626: luosi259
+    4300628: luosi260
+    4300630: luosi261
+    4300632: luosi262
+    4300634: luosi263
+    4300636: luosi264
+    4300638: luosi265
+    4300640: luosi266
+    4300642: luosi267
+    4300644: luosi268
+    4300646: luosi275
+    4300648: luosi276
+    4300650: luosi277
+    4300652: luosi278
+    4300654: luosi279
+    4300656: luosi280
+    4300658: luosi281
+    4300660: luosi282
+    4300662: luosi283
+    4300664: luosi284
+    4300666: luosi285
+    4300668: luosi286
+    4300670: luosi287
+    4300672: luosi288
+    4300674: luosi289
+    4300676: luosi290
+    4300678: luosi291
+    4300680: luosi292
+    4300682: luosi293
+    4300684: luosi294
+    4300686: luosi295
+    4300688: luosi296
+    4300690: luosi297
+    4300692: luosi298
+    4300694: luosi299
+    4300696: luosi300
+    4300698: luosi301
+    4300700: luosi302
+    4300702: luosi303
+    4300704: luosi304
+    4300706: luosi305
+    4300708: luosi306
+    4300710: luosi307
+    4300712: luosi308
+    4300714: luosi309
+    4300716: luosi310
+    4300718: luosi311
+    4300720: luosi312
+    4300722: luosi313
+    4300724: luosi314
+    4300726: luosi315
+    4300728: luosi316
+    4300730: luosi317
+    4300732: luosi318
+    4300734: luosi319
+    4300736: luosi320
+    4300738: luosi321
+    4300740: luosi322
+    4300742: luosi323
+    4300744: luosi324
+    4300746: luosi325
+    4300748: luosi326
+    4300750: luosi327
+    4300752: luosi328
+    4300754: luosi329
+    4300756: luosi330
+    4300758: luosi331
+    4300760: luosi332
+    4300762: luosi333
+    4300764: luosi334
+    4300766: luosi335
+    4300768: luosi336
+    4300770: luosi337
+    4300772: luosi338
+    4300774: luosi340
+    4300776: luosi341
+    4300778: luosi342
+    4300780: luosi343
+    4300782: luosi344
+    4300784: luosi345
+    4300786: luosi346
+    4300788: luosi347
+    4300790: luosi348
+    4300792: luosi349
+    4300794: luosi350
+    4300796: luosi351
+    4300798: luosi352
+    4300800: luosi353
+    4300802: luosi354
+    4300804: luosi355
+    4300806: luosi356
+    4300808: luosi357
+    4300810: luosi358
+    4300812: luosi359
+    4300814: luosi360
+    4300816: luosi361
+    4300818: luosi362
+    4300820: luosi363
+    4300822: luosi364
+    4300824: luosi365
+    4300826: luosi366
+    4300828: Object101
+    4300830: luosi367
+    4300832: luosi368
+    4300834: zhafa007
+    4300836: luosi369
+    4300838: luosi370
+    4300840: luosi371
+    4300842: luosi372
+    4300844: zbafa009
+    4300846: luosi373
+    4300848: luosi374
+    4300850: luosi375
+    4300852: luosi376
+    4300854: luosi377
+    4300856: luosi378
+    4300858: luosi379
+    4300860: luosi380
+    4300862: luosi381
+    4300864: luosi382
+    4300866: luosi383
+    4300868: luosi384
+    4300870: luosi385
+    4300872: luosi386
+    4300874: luosi387
+    4300876: luosi388
+    4300878: luosi389
+    4300880: luosi390
+    4300882: luosi391
+    4300884: luosi392
+    4300886: luosi393
+    4300888: luosi394
+    4300890: luosi395
+    4300892: luosi397
+    4300894: luosi398
+    4300896: luosi399
+    4300898: luosi400
+    4300900: luosi401
+    4300902: luosi402
+    4300904: luosi403
+    4300906: luosi404
+    4300908: luosi405
+    4300910: luosi406
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 3AAA001
+        weight: 1
+      - path: 3AAA001/3AAA
+        weight: 1
+      - path: 3AAA001/dianji001
+        weight: 1
+      - path: 3AAA001/dianji002
+        weight: 1
+      - path: 3AAA001/mifenggai
+        weight: 1
+      - path: 3AAA001/mifenggai001
+        weight: 1
+      - path: 3AAA001/mifenggai019
+        weight: 1
+      - path: 3AAA001/mifenggai022
+        weight: 1
+      - path: 3AAA001/mifenggai023
+        weight: 1
+      - path: 3AAA001/mifenggai024
+        weight: 1
+      - path: 3AAA001/mifenggai025
+        weight: 1
+      - path: 3AAA001/Object084
+        weight: 1
+      - path: 3AAA001/tanhuan
+        weight: 1
+      - path: 3AAA001/tanhuan001
+        weight: 1
+      - path: 3AAA001/tanhuan002
+        weight: 1
+      - path: 3AAA001/tanhuan003
+        weight: 1
+      - path: 3AAA001/tanhuan004
+        weight: 1
+      - path: 3AAA001/tanhuan005
+        weight: 1
+      - path: 3AAA001/tanhuan006
+        weight: 1
+      - path: 3AAA001/yelun004
+        weight: 1
+      - path: 3AAA001/yelun005
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder039
+        weight: 1
+      - path: Cylinder040
+        weight: 1
+      - path: Cylinder041
+        weight: 1
+      - path: Cylinder042
+        weight: 1
+      - path: dianji
+        weight: 1
+      - path: dizuo1
+        weight: 1
+      - path: dizuo2
+        weight: 1
+      - path: dizuo3
+        weight: 1
+      - path: duiping003
+        weight: 1
+      - path: duiping003/duiping015
+        weight: 1
+      - path: duiping003/duiping019
+        weight: 1
+      - path: duiping003/duiping019/duiping005
+        weight: 1
+      - path: duiping003/duiping019/duiping005/duiping002
+        weight: 1
+      - path: duiping003/duiping019/duiping005/duiping006
+        weight: 1
+      - path: duiping003/duiping019/duiping005/duiping008
+        weight: 1
+      - path: duiping003/duiping019/duiping005/duiping009
+        weight: 1
+      - path: duiping003/duiping020
+        weight: 1
+      - path: duiping003/duiping020/duiping014
+        weight: 1
+      - path: duiping003/duiping020/duiping022
+        weight: 1
+      - path: duiping003/duiping020/duiping024
+        weight: 1
+      - path: duiping003/duiping020/duiping025
+        weight: 1
+      - path: duiping016
+        weight: 1
+      - path: duiping016/duiping012
+        weight: 1
+      - path: duiping016/duiping012/duiping004
+        weight: 1
+      - path: duiping016/duiping012/duiping007
+        weight: 1
+      - path: duiping016/duiping012/duiping010
+        weight: 1
+      - path: duiping016/duiping017
+        weight: 1
+      - path: duiping023
+        weight: 1
+      - path: duiping023/duiping013
+        weight: 1
+      - path: duiping023/duiping021
+        weight: 1
+      - path: duiping023/duiping021/duiping018
+        weight: 1
+      - path: duiping023/duiping021/duiping018/duiping026
+        weight: 1
+      - path: luosi018
+        weight: 1
+      - path: luosi029
+        weight: 1
+      - path: luosi030
+        weight: 1
+      - path: luosi031
+        weight: 1
+      - path: luosi032
+        weight: 1
+      - path: luosi033
+        weight: 1
+      - path: luosi034
+        weight: 1
+      - path: luosi035
+        weight: 1
+      - path: luosi036
+        weight: 1
+      - path: luosi037
+        weight: 1
+      - path: luosi038
+        weight: 1
+      - path: luosi039
+        weight: 1
+      - path: luosi040
+        weight: 1
+      - path: luosi041
+        weight: 1
+      - path: luosi042
+        weight: 1
+      - path: luosi043
+        weight: 1
+      - path: luosi044
+        weight: 1
+      - path: luosi045
+        weight: 1
+      - path: luosi046
+        weight: 1
+      - path: luosi047
+        weight: 1
+      - path: luosi048
+        weight: 1
+      - path: luosi049
+        weight: 1
+      - path: luosi050
+        weight: 1
+      - path: luosi051
+        weight: 1
+      - path: luosi052
+        weight: 1
+      - path: luosi053
+        weight: 1
+      - path: luosi054
+        weight: 1
+      - path: luosi055
+        weight: 1
+      - path: luosi056
+        weight: 1
+      - path: luosi057
+        weight: 1
+      - path: luosi058
+        weight: 1
+      - path: luosi059
+        weight: 1
+      - path: luosi060
+        weight: 1
+      - path: luosi061
+        weight: 1
+      - path: luosi062
+        weight: 1
+      - path: luosi063
+        weight: 1
+      - path: luosi064
+        weight: 1
+      - path: luosi065
+        weight: 1
+      - path: luosi066
+        weight: 1
+      - path: luosi067
+        weight: 1
+      - path: luosi068
+        weight: 1
+      - path: luosi069
+        weight: 1
+      - path: luosi070
+        weight: 1
+      - path: luosi071
+        weight: 1
+      - path: luosi072
+        weight: 1
+      - path: luosi073
+        weight: 1
+      - path: luosi074
+        weight: 1
+      - path: luosi075
+        weight: 1
+      - path: luosi076
+        weight: 1
+      - path: luosi077
+        weight: 1
+      - path: luosi078
+        weight: 1
+      - path: luosi079
+        weight: 1
+      - path: luosi080
+        weight: 1
+      - path: luosi081
+        weight: 1
+      - path: luosi082
+        weight: 1
+      - path: luosi083
+        weight: 1
+      - path: luosi084
+        weight: 1
+      - path: luosi085
+        weight: 1
+      - path: luosi086
+        weight: 1
+      - path: luosi087
+        weight: 1
+      - path: luosi088
+        weight: 1
+      - path: luosi089
+        weight: 1
+      - path: luosi090
+        weight: 1
+      - path: luosi091
+        weight: 1
+      - path: luosi092
+        weight: 1
+      - path: luosi093
+        weight: 1
+      - path: luosi094
+        weight: 1
+      - path: luosi095
+        weight: 1
+      - path: luosi096
+        weight: 1
+      - path: luosi097
+        weight: 1
+      - path: luosi098
+        weight: 1
+      - path: luosi099
+        weight: 1
+      - path: luosi100
+        weight: 1
+      - path: luosi101
+        weight: 1
+      - path: luosi102
+        weight: 1
+      - path: luosi103
+        weight: 1
+      - path: luosi104
+        weight: 1
+      - path: luosi105
+        weight: 1
+      - path: luosi106
+        weight: 1
+      - path: luosi107
+        weight: 1
+      - path: luosi108
+        weight: 1
+      - path: luosi109
+        weight: 1
+      - path: luosi110
+        weight: 1
+      - path: luosi111
+        weight: 1
+      - path: luosi112
+        weight: 1
+      - path: luosi113
+        weight: 1
+      - path: luosi114
+        weight: 1
+      - path: luosi115
+        weight: 1
+      - path: luosi116
+        weight: 1
+      - path: luosi117
+        weight: 1
+      - path: luosi118
+        weight: 1
+      - path: luosi119
+        weight: 1
+      - path: luosi120
+        weight: 1
+      - path: luosi121
+        weight: 1
+      - path: luosi122
+        weight: 1
+      - path: luosi123
+        weight: 1
+      - path: luosi124
+        weight: 1
+      - path: luosi125
+        weight: 1
+      - path: luosi126
+        weight: 1
+      - path: luosi127
+        weight: 1
+      - path: luosi128
+        weight: 1
+      - path: luosi129
+        weight: 1
+      - path: luosi130
+        weight: 1
+      - path: luosi131
+        weight: 1
+      - path: luosi132
+        weight: 1
+      - path: luosi133
+        weight: 1
+      - path: luosi134
+        weight: 1
+      - path: luosi135
+        weight: 1
+      - path: luosi136
+        weight: 1
+      - path: luosi137
+        weight: 1
+      - path: luosi138
+        weight: 1
+      - path: luosi139
+        weight: 1
+      - path: luosi140
+        weight: 1
+      - path: luosi141
+        weight: 1
+      - path: luosi154
+        weight: 1
+      - path: luosi155
+        weight: 1
+      - path: luosi156
+        weight: 1
+      - path: luosi157
+        weight: 1
+      - path: luosi158
+        weight: 1
+      - path: luosi159
+        weight: 1
+      - path: luosi160
+        weight: 1
+      - path: luosi161
+        weight: 1
+      - path: luosi162
+        weight: 1
+      - path: luosi163
+        weight: 1
+      - path: luosi164
+        weight: 1
+      - path: luosi165
+        weight: 1
+      - path: luosi166
+        weight: 1
+      - path: luosi167
+        weight: 1
+      - path: luosi168
+        weight: 1
+      - path: luosi169
+        weight: 1
+      - path: luosi170
+        weight: 1
+      - path: luosi171
+        weight: 1
+      - path: luosi172
+        weight: 1
+      - path: luosi173
+        weight: 1
+      - path: luosi174
+        weight: 1
+      - path: luosi175
+        weight: 1
+      - path: luosi176
+        weight: 1
+      - path: luosi177
+        weight: 1
+      - path: luosi178
+        weight: 1
+      - path: luosi179
+        weight: 1
+      - path: luosi180
+        weight: 1
+      - path: luosi181
+        weight: 1
+      - path: luosi182
+        weight: 1
+      - path: luosi183
+        weight: 1
+      - path: luosi184
+        weight: 1
+      - path: luosi185
+        weight: 1
+      - path: luosi186
+        weight: 1
+      - path: luosi187
+        weight: 1
+      - path: luosi188
+        weight: 1
+      - path: luosi189
+        weight: 1
+      - path: luosi190
+        weight: 1
+      - path: luosi191
+        weight: 1
+      - path: luosi192
+        weight: 1
+      - path: luosi193
+        weight: 1
+      - path: luosi194
+        weight: 1
+      - path: luosi195
+        weight: 1
+      - path: luosi196
+        weight: 1
+      - path: luosi197
+        weight: 1
+      - path: luosi198
+        weight: 1
+      - path: luosi199
+        weight: 1
+      - path: luosi200
+        weight: 1
+      - path: luosi201
+        weight: 1
+      - path: luosi202
+        weight: 1
+      - path: luosi203
+        weight: 1
+      - path: luosi204
+        weight: 1
+      - path: luosi205
+        weight: 1
+      - path: luosi206
+        weight: 1
+      - path: luosi207
+        weight: 1
+      - path: luosi208
+        weight: 1
+      - path: luosi209
+        weight: 1
+      - path: luosi210
+        weight: 1
+      - path: luosi211
+        weight: 1
+      - path: luosi212
+        weight: 1
+      - path: luosi213
+        weight: 1
+      - path: luosi214
+        weight: 1
+      - path: luosi215
+        weight: 1
+      - path: luosi216
+        weight: 1
+      - path: luosi217
+        weight: 1
+      - path: luosi218
+        weight: 1
+      - path: luosi219
+        weight: 1
+      - path: luosi220
+        weight: 1
+      - path: luosi221
+        weight: 1
+      - path: luosi222
+        weight: 1
+      - path: luosi223
+        weight: 1
+      - path: luosi224
+        weight: 1
+      - path: luosi225
+        weight: 1
+      - path: luosi226
+        weight: 1
+      - path: luosi227
+        weight: 1
+      - path: luosi228
+        weight: 1
+      - path: luosi229
+        weight: 1
+      - path: luosi230
+        weight: 1
+      - path: luosi231
+        weight: 1
+      - path: luosi232
+        weight: 1
+      - path: luosi233
+        weight: 1
+      - path: luosi234
+        weight: 1
+      - path: luosi236
+        weight: 1
+      - path: luosi237
+        weight: 1
+      - path: luosi238
+        weight: 1
+      - path: luosi239
+        weight: 1
+      - path: luosi240
+        weight: 1
+      - path: luosi241
+        weight: 1
+      - path: luosi244
+        weight: 1
+      - path: luosi245
+        weight: 1
+      - path: luosi246
+        weight: 1
+      - path: luosi247
+        weight: 1
+      - path: luosi248
+        weight: 1
+      - path: luosi249
+        weight: 1
+      - path: luosi250
+        weight: 1
+      - path: luosi251
+        weight: 1
+      - path: luosi252
+        weight: 1
+      - path: luosi253
+        weight: 1
+      - path: luosi254
+        weight: 1
+      - path: luosi255
+        weight: 1
+      - path: luosi256
+        weight: 1
+      - path: luosi257
+        weight: 1
+      - path: luosi258
+        weight: 1
+      - path: luosi259
+        weight: 1
+      - path: luosi260
+        weight: 1
+      - path: luosi261
+        weight: 1
+      - path: luosi262
+        weight: 1
+      - path: luosi263
+        weight: 1
+      - path: luosi264
+        weight: 1
+      - path: luosi265
+        weight: 1
+      - path: luosi266
+        weight: 1
+      - path: luosi267
+        weight: 1
+      - path: luosi268
+        weight: 1
+      - path: luosi275
+        weight: 1
+      - path: luosi276
+        weight: 1
+      - path: luosi277
+        weight: 1
+      - path: luosi278
+        weight: 1
+      - path: luosi279
+        weight: 1
+      - path: luosi280
+        weight: 1
+      - path: luosi281
+        weight: 1
+      - path: luosi282
+        weight: 1
+      - path: luosi283
+        weight: 1
+      - path: luosi284
+        weight: 1
+      - path: luosi285
+        weight: 1
+      - path: luosi286
+        weight: 1
+      - path: luosi287
+        weight: 1
+      - path: luosi288
+        weight: 1
+      - path: luosi289
+        weight: 1
+      - path: luosi290
+        weight: 1
+      - path: luosi291
+        weight: 1
+      - path: luosi292
+        weight: 1
+      - path: luosi293
+        weight: 1
+      - path: luosi294
+        weight: 1
+      - path: luosi295
+        weight: 1
+      - path: luosi296
+        weight: 1
+      - path: luosi297
+        weight: 1
+      - path: luosi298
+        weight: 1
+      - path: luosi299
+        weight: 1
+      - path: luosi300
+        weight: 1
+      - path: luosi301
+        weight: 1
+      - path: luosi302
+        weight: 1
+      - path: luosi303
+        weight: 1
+      - path: luosi304
+        weight: 1
+      - path: luosi305
+        weight: 1
+      - path: luosi306
+        weight: 1
+      - path: luosi307
+        weight: 1
+      - path: luosi308
+        weight: 1
+      - path: luosi309
+        weight: 1
+      - path: luosi310
+        weight: 1
+      - path: luosi311
+        weight: 1
+      - path: luosi312
+        weight: 1
+      - path: luosi313
+        weight: 1
+      - path: luosi314
+        weight: 1
+      - path: luosi315
+        weight: 1
+      - path: luosi316
+        weight: 1
+      - path: luosi317
+        weight: 1
+      - path: luosi318
+        weight: 1
+      - path: luosi319
+        weight: 1
+      - path: luosi320
+        weight: 1
+      - path: luosi321
+        weight: 1
+      - path: luosi322
+        weight: 1
+      - path: luosi323
+        weight: 1
+      - path: luosi324
+        weight: 1
+      - path: luosi325
+        weight: 1
+      - path: luosi326
+        weight: 1
+      - path: luosi327
+        weight: 1
+      - path: luosi328
+        weight: 1
+      - path: luosi329
+        weight: 1
+      - path: luosi330
+        weight: 1
+      - path: luosi331
+        weight: 1
+      - path: luosi332
+        weight: 1
+      - path: luosi333
+        weight: 1
+      - path: luosi334
+        weight: 1
+      - path: luosi335
+        weight: 1
+      - path: luosi336
+        weight: 1
+      - path: luosi337
+        weight: 1
+      - path: luosi338
+        weight: 1
+      - path: luosi340
+        weight: 1
+      - path: luosi341
+        weight: 1
+      - path: luosi342
+        weight: 1
+      - path: luosi343
+        weight: 1
+      - path: luosi344
+        weight: 1
+      - path: luosi345
+        weight: 1
+      - path: luosi346
+        weight: 1
+      - path: luosi347
+        weight: 1
+      - path: luosi348
+        weight: 1
+      - path: luosi349
+        weight: 1
+      - path: luosi350
+        weight: 1
+      - path: luosi351
+        weight: 1
+      - path: luosi352
+        weight: 1
+      - path: luosi353
+        weight: 1
+      - path: luosi354
+        weight: 1
+      - path: luosi355
+        weight: 1
+      - path: luosi356
+        weight: 1
+      - path: luosi357
+        weight: 1
+      - path: luosi358
+        weight: 1
+      - path: luosi359
+        weight: 1
+      - path: luosi360
+        weight: 1
+      - path: luosi361
+        weight: 1
+      - path: luosi362
+        weight: 1
+      - path: luosi363
+        weight: 1
+      - path: luosi364
+        weight: 1
+      - path: luosi365
+        weight: 1
+      - path: luosi366
+        weight: 1
+      - path: luosi367
+        weight: 1
+      - path: luosi368
+        weight: 1
+      - path: luosi369
+        weight: 1
+      - path: luosi370
+        weight: 1
+      - path: luosi371
+        weight: 1
+      - path: luosi372
+        weight: 1
+      - path: luosi373
+        weight: 1
+      - path: luosi374
+        weight: 1
+      - path: luosi375
+        weight: 1
+      - path: luosi376
+        weight: 1
+      - path: luosi377
+        weight: 1
+      - path: luosi378
+        weight: 1
+      - path: luosi379
+        weight: 1
+      - path: luosi380
+        weight: 1
+      - path: luosi381
+        weight: 1
+      - path: luosi382
+        weight: 1
+      - path: luosi383
+        weight: 1
+      - path: luosi384
+        weight: 1
+      - path: luosi385
+        weight: 1
+      - path: luosi386
+        weight: 1
+      - path: luosi387
+        weight: 1
+      - path: luosi388
+        weight: 1
+      - path: luosi389
+        weight: 1
+      - path: luosi390
+        weight: 1
+      - path: luosi391
+        weight: 1
+      - path: luosi392
+        weight: 1
+      - path: luosi393
+        weight: 1
+      - path: luosi394
+        weight: 1
+      - path: luosi395
+        weight: 1
+      - path: luosi397
+        weight: 1
+      - path: luosi398
+        weight: 1
+      - path: luosi399
+        weight: 1
+      - path: luosi400
+        weight: 1
+      - path: luosi401
+        weight: 1
+      - path: luosi402
+        weight: 1
+      - path: luosi403
+        weight: 1
+      - path: luosi404
+        weight: 1
+      - path: luosi405
+        weight: 1
+      - path: luosi406
+        weight: 1
+      - path: NGon004
+        weight: 1
+      - path: NGon021
+        weight: 1
+      - path: NGon177
+        weight: 1
+      - path: NGon179
+        weight: 1
+      - path: Object037
+        weight: 1
+      - path: Object038
+        weight: 1
+      - path: Object049
+        weight: 1
+      - path: Object061
+        weight: 1
+      - path: Object066
+        weight: 1
+      - path: Object070
+        weight: 1
+      - path: Object071
+        weight: 1
+      - path: Object071/Object067
+        weight: 1
+      - path: Object071/Object067/Object068
+        weight: 1
+      - path: Object071/Object067/Object068/Object069
+        weight: 1
+      - path: Object071/Object072
+        weight: 1
+      - path: Object073
+        weight: 1
+      - path: Object073/Object074
+        weight: 1
+      - path: Object073/Object074/Object076
+        weight: 1
+      - path: Object073/Object074/Object076/Object075
+        weight: 1
+      - path: Object073/Object077
+        weight: 1
+      - path: Object078
+        weight: 1
+      - path: Object078/Object079
+        weight: 1
+      - path: Object078/Object079/Object081
+        weight: 1
+      - path: Object078/Object079/Object081/Object080
+        weight: 1
+      - path: Object078/Object082
+        weight: 1
+      - path: Object093
+        weight: 1
+      - path: Object094
+        weight: 1
+      - path: Object095
+        weight: 1
+      - path: Object096
+        weight: 1
+      - path: Object097
+        weight: 1
+      - path: Object098
+        weight: 1
+      - path: Object099
+        weight: 1
+      - path: Object100
+        weight: 1
+      - path: Object101
+        weight: 1
+      - path: yibiao01
+        weight: 1
+      - path: yibiao01/yibiao00
+        weight: 1
+      - path: yibiao01/yibiao05
+        weight: 1
+      - path: yibiao02
+        weight: 1
+      - path: yibiao02/yibiao06
+        weight: 1
+      - path: yibiao03
+        weight: 1
+      - path: yibiao03/yibiao04
+        weight: 1
+      - path: zbafa009
+        weight: 1
+      - path: zhafa005
+        weight: 1
+      - path: zhafa005 1
+        weight: 1
+      - path: zhafa006
+        weight: 1
+      - path: zhafa007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

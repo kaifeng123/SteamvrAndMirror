@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 33ca32de9586e8f40afb85f050a240dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boli_037
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: chazuo_090
+    100010: chuanglian
+    100012: diannao_001
+    100014: Door_008
+    100016: heiban_003
+    100018: kuangjia_028
+    100020: kuangjia_037
+    100022: kuangjia_038
+    100024: Line005
+    100026: Object015
+    100028: Object016
+    100030: Object017
+    100032: Object018
+    100034: Object019
+    100036: Object021
+    100038: Object022
+    100040: paizi_002
+    100042: Plane001
+    100044: //RootNode
+    100046: shiyantai
+    100048: shiyantai_MeshPart0
+    100050: shiyantai_MeshPart1
+    100052: shuichi_007
+    100054: Sphere051
+    100056: zhuozi
+    100058: zhuozi004
+    100060: "\u76AE\u80A4_Female_Body_Skin"
+    100062: "\u773C\u775B_Female_Body_R_Eye001"
+    100064: "\u77ED\u53D1_Female_Body_ShortHair"
+    100066: "\u957F\u53D1_Female_Body_LongHair"
+    400000: boli_037
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: chazuo_090
+    400010: chuanglian
+    400012: diannao_001
+    400014: Door_008
+    400016: heiban_003
+    400018: kuangjia_028
+    400020: kuangjia_037
+    400022: kuangjia_038
+    400024: Line005
+    400026: Object015
+    400028: Object016
+    400030: Object017
+    400032: Object018
+    400034: Object019
+    400036: Object021
+    400038: Object022
+    400040: paizi_002
+    400042: Plane001
+    400044: //RootNode
+    400046: shiyantai
+    400048: shiyantai_MeshPart0
+    400050: shiyantai_MeshPart1
+    400052: shuichi_007
+    400054: Sphere051
+    400056: zhuozi
+    400058: zhuozi004
+    400060: "\u76AE\u80A4_Female_Body_Skin"
+    400062: "\u773C\u775B_Female_Body_R_Eye001"
+    400064: "\u77ED\u53D1_Female_Body_ShortHair"
+    400066: "\u957F\u53D1_Female_Body_LongHair"
+    2300000: boli_037
+    2300002: Box001
+    2300004: Box002
+    2300006: Box003
+    2300008: chazuo_090
+    2300010: chuanglian
+    2300012: diannao_001
+    2300014: Door_008
+    2300016: heiban_003
+    2300018: kuangjia_028
+    2300020: kuangjia_037
+    2300022: kuangjia_038
+    2300024: Line005
+    2300026: Object015
+    2300028: Object016
+    2300030: Object017
+    2300032: Object018
+    2300034: Object019
+    2300036: Object021
+    2300038: Object022
+    2300040: paizi_002
+    2300042: Plane001
+    2300044: shiyantai_MeshPart0
+    2300046: shiyantai_MeshPart1
+    2300048: shuichi_007
+    2300050: Sphere051
+    2300052: zhuozi
+    2300054: zhuozi004
+    2300056: "\u76AE\u80A4_Female_Body_Skin"
+    2300058: "\u773C\u775B_Female_Body_R_Eye001"
+    2300060: "\u77ED\u53D1_Female_Body_ShortHair"
+    2300062: "\u957F\u53D1_Female_Body_LongHair"
+    3300000: boli_037
+    3300002: Box001
+    3300004: Box002
+    3300006: Box003
+    3300008: chazuo_090
+    3300010: chuanglian
+    3300012: diannao_001
+    3300014: Door_008
+    3300016: heiban_003
+    3300018: kuangjia_028
+    3300020: kuangjia_037
+    3300022: kuangjia_038
+    3300024: Line005
+    3300026: Object015
+    3300028: Object016
+    3300030: Object017
+    3300032: Object018
+    3300034: Object019
+    3300036: Object021
+    3300038: Object022
+    3300040: paizi_002
+    3300042: Plane001
+    3300044: shiyantai_MeshPart0
+    3300046: shiyantai_MeshPart1
+    3300048: shuichi_007
+    3300050: Sphere051
+    3300052: zhuozi
+    3300054: zhuozi004
+    3300056: "\u76AE\u80A4_Female_Body_Skin"
+    3300058: "\u773C\u775B_Female_Body_R_Eye001"
+    3300060: "\u77ED\u53D1_Female_Body_ShortHair"
+    3300062: "\u957F\u53D1_Female_Body_LongHair"
+    4300000: Box001
+    4300002: zhuozi004
+    4300004: diannao_001
+    4300006: chazuo_090
+    4300008: heiban_003
+    4300010: kuangjia_028
+    4300012: Door_008
+    4300014: boli_037
+    4300016: kuangjia_037
+    4300018: shuichi_007
+    4300020: chuanglian
+    4300022: Box002
+    4300024: "\u957F\u53D1_Female_Body_LongHair"
+    4300026: "\u77ED\u53D1_Female_Body_ShortHair"
+    4300028: "\u76AE\u80A4_Female_Body_Skin"
+    4300030: Sphere051
+    4300032: Line005
+    4300034: shiyantai_MeshPart0
+    4300036: shiyantai_MeshPart1
+    4300038: paizi_002
+    4300040: Object015
+    4300042: zhuozi
+    4300044: Object016
+    4300046: Plane001
+    4300048: Object017
+    4300050: Object018
+    4300052: Object019
+    4300054: "\u773C\u775B_Female_Body_R_Eye001"
+    4300056: kuangjia_038
+    4300058: Box003
+    4300060: Object021
+    4300062: Object022
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_body_diffuse
+    second: {fileID: 2100000, guid: cac652192c77a894a9a00861dc2ff3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_eye_diffuse
+    second: {fileID: 2100000, guid: d9722657621b75d42a8754fe1bc710b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_hair_diffuse
+    second: {fileID: 2100000, guid: 328a123cddd8d3144b8de0ff230f2f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MuscularSystem_diffuse
+    second: {fileID: 2100000, guid: 91683920b2567c043968189e77873af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Boli
+    second: {fileID: 2100000, guid: 3cff2bf8889939f4ea774e645eca632d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Chazuo
+    second: {fileID: 2100000, guid: 6fc48a54c863b3942b14f8fe84a508e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Chuang
+    second: {fileID: 2100000, guid: 3b4e862436ce40a418eed02613a613d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Chuanglian
+    second: {fileID: 2100000, guid: 27ecba6794f51014d89644050ba22419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Chuankuang
+    second: {fileID: 2100000, guid: 692c7a00ef2c8c9479dc7660b1fb181f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Cizhuan
+    second: {fileID: 2100000, guid: 059edc6be86b2e94f9ee251cd70047d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Deng
+    second: {fileID: 2100000, guid: 68ae5fdefd3adb94eaa138523bb568ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Diannao
+    second: {fileID: 2100000, guid: 5f0f80d183ffa6f4ebb02befeaeb6466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Dimian
+    second: {fileID: 2100000, guid: f8ed01174718999438f43109a439009c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Ding
+    second: {fileID: 2100000, guid: ad6dcb76f1cd1114fb47c11d1acf2d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Door
+    second: {fileID: 2100000, guid: 7e2c6b0fb4956a847b42213ac27634c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Guizi
+    second: {fileID: 2100000, guid: da46e585b7f44c346928453c1681bf20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Heiban
+    second: {fileID: 2100000, guid: 222d174b93769a64c9d27b700e5e1bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Qimin
+    second: {fileID: 2100000, guid: 1c45a647ab1ae9a4c9ab04f684ce4b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Shiyanzhuo
+    second: {fileID: 2100000, guid: fddb598b2f5e2a24c8bf47416baf2b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Shuichi
+    second: {fileID: 2100000, guid: c5fa93f553ca988479ca7cb828cb068f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Waijing
+    second: {fileID: 2100000, guid: d4dcbde25afb4df4d87d064dd916c5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Wall
+    second: {fileID: 2100000, guid: 8e81ddcf9b90d70429733032c5804268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Yueyasuo
+    second: {fileID: 2100000, guid: fea909e83c2bbcf49b90e0a069a5e714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SYS_Zhike
+    second: {fileID: 2100000, guid: bbe9954e11f5e2744a66b6daa661a2e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XY_Menpai_a
+    second: {fileID: 2100000, guid: d560a231c7a47474b82b2f62cf0abd8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XY_Menpai_b
+    second: {fileID: 2100000, guid: d6b0220517cdd2345b5bfe45a9d23550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XY_Menpai_c
+    second: {fileID: 2100000, guid: 7dcb79153a5778d4ea284756e44dc96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XY_Paizi
+    second: {fileID: 2100000, guid: ea9a00cedf1fda74e83f554644d49398, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 29
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
