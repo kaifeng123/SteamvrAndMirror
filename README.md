@@ -1,2 +1,3 @@
 # SteamvrAndMirror
 使用Mirror同步插件,实现在SteamVR中多人同步,第一版demo备份,为开发完全
+本项目是使用的光子服务器,但光子服务器脚本跟Mirror脚本差不多
